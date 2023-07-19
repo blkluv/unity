@@ -4,7 +4,7 @@
 
 # Redirect to Discord server
 [[redirects]]
-  from = "https://chat.elk.zone"
-  to = "https://discord.gg/vAZSDU9J"
+  from = "https://chat.luvnft.com"
+  to = "https://discord.gg/Sp9fubxqgf"
   status = 301
   force = true

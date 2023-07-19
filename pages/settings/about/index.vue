@@ -34,7 +34,7 @@ function handleShowCommit() {
     <template v-if="isHydrated">
       <SettingsItem
         :text="$t('settings.about.version')"
-        :to="showCommit ? `https://github.com/elk-zone/elk/commit/${buildInfo.commit}` : undefined"
+        :to="showCommit ? `https://github.com/blkluv/unity/commit/${buildInfo.commit}` : undefined"
         external target="_blank"
         @click="handleShowCommit"
       >
@@ -61,19 +61,19 @@ function handleShowCommit() {
     <SettingsItem
       text="Mastodon"
       icon="i-ri:mastodon-line"
-      to="/m.webtoo.ls/@elk"
+      to="/m.webtoo.ls/@luv"
       large target="_blank"
     />
     <SettingsItem
       text="Discord"
       icon="i-ri:discord-fill"
-      to="https://chat.elk.zone"
+      to="https://discord.gg/Sp9fubxqgf"
       external large target="_blank"
     />
     <SettingsItem
       text="GitHub"
       icon="i-ri:github-fill"
-      to="https://github.com/elk-zone/elk"
+      to="https://github.com/blkluv/unity"
       external large target="_blank"
     />
 
@@ -98,7 +98,7 @@ function handleShowCommit() {
 
     <SettingsItem
       :text="$t('settings.about.sponsor_action')"
-      to="https://github.com/sponsors/elk-zone"
+      to="https://github.com/blkluv/unity"
       :description="$t('settings.about.sponsor_action_desc')"
       external large target="_blank"
     >

@@ -1,11 +1,11 @@
 export default defineAppConfig({
   docus: {
-    title: 'Elk',
-    description: 'A nimble Mastodon web client.',
+    title: 'Luv',
+    description: 'A positive vibes on social media platform.',
     image: 'https://docs.elk.zone/elk-screenshot.png',
     socials: {
-      twitter: 'elk_zone',
-      github: 'elk-zone/elk',
+      twitter: 'luvnft',
+      github: 'blkluv',
       mastodon: {
         label: 'Mastodon',
         icon: 'IconMastodon',
@@ -28,7 +28,7 @@ export default defineAppConfig({
           icon: 'IconNuxtLabs',
         },
         {
-          href: 'https://m.webtoo.ls/@elk',
+          href: 'https://m.webtoo.ls/@luv',
           icon: 'IconMastodon',
         },
       ],

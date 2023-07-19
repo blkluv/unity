@@ -1,32 +1,30 @@
 <p align="center">
-  <a href="https://elk.zone" target="_blank" rel="noopener noreferrer">
+  <a href="https://luvnft.com" target="_blank" rel="noopener noreferrer">
     <img width="160" height="160" src="./public/logo.svg" alt="Elk logo">
   </a>
 </p>
 
-<h1 align="center"/>Elk <sup><em>alpha</em></sup></h1>
+<h1 align="center"/>Luv <sup><em>alpha</em></sup></h1>
 
 <p align="center">
-A nimble Mastodon web client
+A positive vibes only social media platform.Luv is the new like. 
 </p>
 
 <br/>
 <p align="center">
-  <a href="https://chat.elk.zone"><img src="https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord" alt="discord chat"></a>
-  <a href="https://pr.new/elk-zone/elk"><img src="https://developer.stackblitz.com/img/start_pr_dark_small.svg" alt="Start new PR in StackBlitz Codeflow"></a>
-  <a href="https://volta.net/elk-zone/elk?utm_source=elk_readme"><img src="https://user-images.githubusercontent.com/904724/209143798-32345f6c-3cf8-4e06-9659-f4ace4a6acde.svg" alt="Open board on Volta"></a>
+  <a href="https://discord.gg/Sp9fubxqgf"><img src="https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord" alt="discord chat"></a>
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://elk.zone/" target="_blank" rel="noopener noreferrer" >
+  <a href="https://luvnft.com" target="_blank" rel="noopener noreferrer" >
     <img src="./public/elk-og.png" alt="Elk screenshots" width="600" height="auto">
   </a>
 </p>
 
-## ⚠️ Elk is in Alpha
+## ⚠️ Luv is in Alpha
 
-It is already quite usable, but it isn't ready for wide adoption yet. We recommend you use it if you would like to help us build it. We appreciate your feedback and contributions. Check out the [Open Issues](https://github.com/elk-zone/elk/issues) and jump in the action. Join the [Elk discord server](https://chat.elk.zone) to chat with us and learn more about the project.
+It is already quite usable, but it isn't ready for wide adoption yet. We recommend you use it if you would like to help us build it. We appreciate your feedback and contributions. Check out the [Open Issues](https://github.com/blkluv/unity/issues) and jump in the action. Join the [Luv discord server](https://discord.gg/Sp9fubxqgf) to chat with us and learn more about the project.
 
 ## Deployment
 
@@ -34,7 +32,7 @@ It is already quite usable, but it isn't ready for wide adoption yet. We recomme
 
 The Elk team maintains a deployment at:
 
-- 🦌 Production: [elk.zone](https://elk.zone)
+- 🦌 Production: [luv nft](https://luvnft.com)
 - 🐙 Canary: [main.elk.zone](https://main.elk.zone) (deploys on every commit to `main` branch)
 
 ### Self-Host Docker Deployment
